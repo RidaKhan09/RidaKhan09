@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RidaKhan09
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me: krida2686@gmail.com
-
-<!---
-RidaKhan09/RidaKhan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 BS Computer Science Graduate | Front-End Developer
+🌐 Passionate about building responsive web applications using HTML, CSS, JavaScript, React, and Bootstrap.
+🚀 Always learning and exploring new technologies.
+🎯 Seeking opportunities to grow as a Web Developer Intern and contribute to real-world projects.
+📂 Check out my projects below!
